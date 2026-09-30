@@ -8,7 +8,7 @@ and PostgreSQL.
 
 ## Selected work
 
-- [smart-query-router](https://github.com/shanzasayeed/smart-query-router): LangGraph support agent that classifies queries, answers with RAG, grades its own answers and retries, and escalates to a human.
+- [smart-query-router](https://github.com/shanzasayeed/smart-query-router): LangGraph support agent that classifies queries, answers from a knowledge base, grades its own answers and retries, and pauses for a human before escalating.
 - [flight-data-analysis](https://github.com/shanzasayeed/flight-data-analysis): exploratory analysis of flight data with pandas and Plotly, presented as a multi-page Streamlit app.
 
 ## Contact
