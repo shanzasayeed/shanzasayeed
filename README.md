@@ -1,4 +1,4 @@
-# Shanza Sayeed Siddiqui
+# Shanza Sayeed 
 
 AI engineer and co-founder of [Eligent AI](https://www.eligentai.com/), based in Lucknow, India.
 
