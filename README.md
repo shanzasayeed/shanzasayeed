@@ -8,8 +8,10 @@ and PostgreSQL.
 
 ## Selected work
 
+- [intelops-ai](https://github.com/shanzasayeed/intelops-ai): architecture write-up of IntelOps, an internal company copilot where a router sends each question to document search, a SQL agent or a report agent. Built at Eligent AI; the source code is private.
 - [smart-query-router](https://github.com/shanzasayeed/smart-query-router): LangGraph support agent that classifies queries, answers from a knowledge base, grades its own answers and retries, and pauses for a human before escalating.
-- [flight-data-analysis](https://github.com/shanzasayeed/flight-data-analysis): exploratory analysis of flight data with pandas and Plotly, presented as a multi-page Streamlit app.
+
+Earlier work: [flight-data-analysis](https://github.com/shanzasayeed/flight-data-analysis), a data analysis project from my data science internship.
 
 ## Contact
 
